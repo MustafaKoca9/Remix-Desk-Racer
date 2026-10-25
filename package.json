@@ -2,6 +2,18 @@
   "name": "desk-racer",
   "private": true,
   "version": "1.0.0",
+  "description": "Miniature 1:87 HO-scale coaster time-trial racing game in Three.js and Rapier3D physics",
+  "license": "MIT",
+  "keywords": [
+    "threejs",
+    "webgl",
+    "racing-game",
+    "rapier3d",
+    "physics",
+    "webaudio",
+    "vite",
+    "tilt-shift"
+  ],
   "type": "module",
   "scripts": {
     "predev": "[ -d node_modules/.bin ] || bun install || npm install",
